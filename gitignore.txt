@@ -1,0 +1,21 @@
+# environment
+.env
+
+# raw scraped data
+data/raw/
+
+# vector store
+.chroma/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
